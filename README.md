@@ -1,2 +1,2 @@
 # ChatProgram
-### socket, javafx
+### Socket, JavaFX
