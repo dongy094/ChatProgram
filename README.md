@@ -20,7 +20,7 @@
 ___
 - 언어 : `Java`
 - Tool : `eclipse` 
-- 관련 지식 : `Java` , `JavaFX`, `Thread`, `thread`, `multi thread` , `Socket` , `TCP/IP`
+- 관련 지식 : `Java`  `JavaFX`  `Thread`  `thread`  `multi thread`  `Socket`  `TCP/IP`
 
 </br>
 </br>
